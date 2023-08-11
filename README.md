@@ -1,5 +1,5 @@
 
-<h1 style="display: inline-block"> Olá 👋, eu sou a MIchelle Martins</h1></summary>
+<h1 style="display: inline-block"> Olá 👋, eu sou a Michelle Martins</h1></summary>
 <h2 style = "display: inline-block"> Estudando programação e essas são as linguagens em desenvolvimento</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Michelle-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
